@@ -1,0 +1,4 @@
+numpy==1.21.6
+imutils==0.5.4
+opencv-python==4.6.0.66
+tflite-runtime==2.11.0
